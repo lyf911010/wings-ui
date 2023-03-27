@@ -9,7 +9,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import ComponentList from '../packages/list.json';
 import { reactive } from 'vue'
 
