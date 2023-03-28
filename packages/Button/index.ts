@@ -1,5 +1,5 @@
 import { App, Plugin } from 'vue'
-import Button from './src/index.vue'
+import Button from './src/index'
 
 export const ButtonPlugin: Plugin = {
     install(app: App, ...options) {

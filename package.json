@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/prismjs": "^1.26.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
